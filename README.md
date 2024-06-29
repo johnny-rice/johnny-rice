@@ -19,7 +19,7 @@
     <table>
      <tr>
       <td align="center" valign="top">
-        <img  src="https://github-profile-trophy.vercel.app/?username=john-rice&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+        <img  src="https://github-profile-trophy.vercel.app/?username=johnny-rice&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
        </td>
         <td align="center" valign="top">
           <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" />
