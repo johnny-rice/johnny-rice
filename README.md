@@ -6,13 +6,13 @@
   <table>
     <tr>
       <td align="center" valign="top" width="40%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=john-rice&theme=dark&hide_border=false" />
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=johnny-rice&theme=dark&hide_border=false" />
       </td>
        <td align="center" valign="top" width="30%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-rice&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnny-rice&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
       </td>
       <td align="center" valign="top" width="30%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=john-rice&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=johnny-rice&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
       </td>
     </tr>
     </table>
