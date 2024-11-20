@@ -1,4 +1,4 @@
-# I advise and support startups with technology
+# I help startup founders and their teams by connecting them with the right technology solutions and partners, curating useful code repositories and GitHub developer accounts, ensuring seamless integration, and developing custom software when needed.
 
 # 📊 GitHub Stats
 
